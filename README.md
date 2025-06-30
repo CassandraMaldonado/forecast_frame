@@ -4,21 +4,14 @@ This repository demonstrates practical applications of time series analysis in e
 
 ## Notebooks Included
 
-1. Okuns_Law.ipynb
-
-Purpose:
-This notebook analyzes the relationship between GDP growth and unemployment, known as Okun’s Law.
+1. Okuns Law
+This notebook analyzes the relationship between GDP growth and unemployment.
 
 Key Features:
-	•	Data cleaning and visualization of unemployment vs. GDP growth
-	•	OLS regression with diagnostic testing (residuals, heteroskedasticity)
-	•	Economic interpretation of regression results
-	•	Plots and tests for statistical validity (e.g., Durbin-Watson, ADF)
-
-Outcome:
-A data-driven validation of Okun’s Law with visual and statistical evidence supporting the inverse relationship between unemployment and GDP.
-
-⸻
+	•	Data cleaning and visualization of unemployment vs. GDP growth.
+	•	OLS regression with diagnostic testing.
+	•	Plots and tests for statistical validity.
+        •	Economic interpretation.
 
 2. Arima_matrix.ipynb
 
