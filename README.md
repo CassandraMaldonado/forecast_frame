@@ -4,7 +4,7 @@ This repository demonstrates practical applications of time series analysis in e
 
 ## Notebooks Included
 
-1. Okuns Law
+*1. Okuns Law*
 This notebook analyzes the relationship between GDP growth and unemployment.
 
 Key Features:
@@ -13,10 +13,8 @@ Key Features:
 	•	Plots and tests for statistical validity.
         •	Economic interpretation.
 
-2. Arima_matrix.ipynb
-
-Purpose:
-This notebook forecasts a time series using ARIMA modeling, focusing on identifying optimal lag orders and minimizing error.
+*2. Arima Matrix*
+This notebook forecasts a time series using ARIMA modeling, focusing on identifying optimal lag orders and minimizing the error.
 
 Key Features:
 	•	AIC matrix heatmap for ARIMA model selection
