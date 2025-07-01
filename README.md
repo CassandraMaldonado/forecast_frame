@@ -20,12 +20,8 @@ Key Features:
 	•	AIC matrix heatmap for ARIMA model selection.
 	•	Autocorrelation (ACF) and partial autocorrelation (PACF) analysis.
 	•	Model fitting and evaluation with RMSE and forecast plots.
-	•	Forecasting future time steps with confidence intervals
+	•	Forecasting future time steps with confidence intervals.
 
-Outcome:
-Demonstrates a methodical approach to ARIMA model tuning and time series forecasting using grid search logic visualized in matrix form.
-
-⸻
 
 3. energy_patterns.ipynb
 
