@@ -24,8 +24,6 @@ Key Features:
 
 
 *3. Energy Patterns*
-
-Purpose:
 This notebook uncovers seasonal and trend patterns in energy consumption data.
 
 Key Features:
