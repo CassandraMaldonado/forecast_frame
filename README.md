@@ -27,8 +27,8 @@ Key Features:
 This notebook uncovers seasonal and trend patterns in energy consumption data.
 
 Key Features:
-	•	Time series decomposition (trend, seasonal, residual)
-	•	Rolling averages and smoothing techniques
+	•	Time series decomposition.
+	•	Rolling averages and smoothing techniques.
 	•	Visual insights into high/low usage months and long-term trends
 	•	Stationarity tests and ADF checks for forecasting readiness
 
