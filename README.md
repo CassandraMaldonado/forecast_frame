@@ -23,7 +23,7 @@ Key Features:
 	•	Forecasting future time steps with confidence intervals.
 
 
-3. energy_patterns.ipynb
+*3. Energy Patterns*
 
 Purpose:
 This notebook uncovers seasonal and trend patterns in energy consumption data.
