@@ -8,6 +8,7 @@ This repository demonstrates practical applications of time series analysis in e
 This notebook analyzes the relationship between GDP growth and unemployment.
 
 Key Features:
+
 	•	Data cleaning and visualization of unemployment vs. GDP growth.
  
 	•	OLS regression with diagnostic testing.
@@ -20,6 +21,7 @@ Key Features:
 This notebook forecasts a time series using ARIMA modeling, focusing on identifying optimal lag orders and minimizing the error.
 
 Key Features:
+
 	•	AIC matrix heatmap for ARIMA model selection.
  
 	•	Autocorrelation (ACF) and partial autocorrelation (PACF) analysis.
