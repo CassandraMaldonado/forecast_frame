@@ -9,8 +9,11 @@ This notebook analyzes the relationship between GDP growth and unemployment.
 
 Key Features:
 	•	Data cleaning and visualization of unemployment vs. GDP growth.
+ 
 	•	OLS regression with diagnostic testing.
+ 
 	•	Plots and tests for statistical validity.
+ 
         •	Economic interpretation.
 
 *2. Arima Matrix*
