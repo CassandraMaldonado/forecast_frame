@@ -21,8 +21,11 @@ This notebook forecasts a time series using ARIMA modeling, focusing on identify
 
 Key Features:
 	•	AIC matrix heatmap for ARIMA model selection.
+ 
 	•	Autocorrelation (ACF) and partial autocorrelation (PACF) analysis.
+ 
 	•	Model fitting and evaluation with RMSE and forecast plots.
+ 
 	•	Forecasting future time steps with confidence intervals.
 
 
